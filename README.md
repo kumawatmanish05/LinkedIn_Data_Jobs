@@ -80,4 +80,4 @@ The dataset contains information about Data Scientist job postings on LinkedIn, 
 ## 📜 How to Use This Repository
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/linkedin-data-scientist-jobs-eda.git
+   git clone https://github.com/kumawatmanish05/linkedin-data-scientist-jobs-eda.git
