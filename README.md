@@ -1,4 +1,4 @@
-# LinkedIn Data Scientist Jobs - (EDA)
+# LinkedIn Data Scientist Jobs : (EDA)
 
 ## 📜 Introduction
 This project involves exploratory data analysis (EDA) of LinkedIn job postings for **Data Scientist roles**. Using Python and its powerful libraries, we aim to uncover key trends and patterns in the job market, helping professionals and enthusiasts better understand the Data Science domain.
